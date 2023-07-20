@@ -1,0 +1,9 @@
+server:
+  port: 8085
+spring:
+    application:
+        name: simpleRepo
+cip:
+  db:
+    enable: true
+    name: cipDB
